@@ -16,4 +16,4 @@ Bugs
 
 -Don't expect any form of security with this
 -The use case of this script is for showing how easily a webserver can be setup in python, and testing your frontend.
--Not packaged like a true python package should be packaged (peter piper picked a pickled...)
+-Not packaged like a true python package, should be packaged (peter piper picked a pickled...)
